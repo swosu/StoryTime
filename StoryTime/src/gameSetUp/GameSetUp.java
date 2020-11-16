@@ -2,11 +2,17 @@ package gameSetUp;
 
 import java.util.Random;
 import java.util.Scanner;
+import treeGame.TreeGame;
 
 public class GameSetUp {
 	private int numberOfTeams;
 	private String theme;
 	private String[] teamTheme;
+	
+	public void playGames(Scanner input, Random rnd) {
+		TreeGame johnny = new TreeGame(input, rnd);
+		
+	}
 
 	public void setUpStoryTime(Scanner input, Random rnd) {
 		this.getNumberOfTeams(input);
@@ -98,4 +104,6 @@ public class GameSetUp {
 	private int getDiceNumber(Random rnd) {
 		return rnd.nextInt(6);
 	}
+
+
 }
