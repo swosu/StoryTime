@@ -3,7 +3,6 @@ package main;
 import java.util.Random;
 import java.util.Scanner;
 import gameSetUp.GameSetUp;
-
 import introduction.Greetings;
 
 public class Main {

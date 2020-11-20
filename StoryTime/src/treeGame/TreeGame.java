@@ -6,7 +6,7 @@ import java.util.Scanner;
 public class TreeGame {
 
 	public TreeGame(Scanner input, Random rnd) {
-		// TODO Auto-generated constructor stub
+		
 	}
 
 }
