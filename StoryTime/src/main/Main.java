@@ -5,6 +5,14 @@ import java.util.Scanner;
 import gameSetUp.GameSetUp;
 import introduction.Greetings;
 
+/** CS 2 story ideas*/
+ /* Kathy: Wand
+ * Allison: Faces/ Happy Sad Masks
+ * Tashi: Hand
+ * Jeremy: Tree
+ * Ali: Light Bulb 
+ */
+
 public class Main {
 
 	public static void main(String[] args) {

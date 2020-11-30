@@ -5,24 +5,11 @@ import java.util.Scanner;
 import treeGame.TreeGame;
 
 public class GameSetUp {
-	/*
-	 * Kathy: Wand
-	 * Allison: Faces/ Happy Sad Masks
-	 * Tashi: Hand
-	 * Jeremy: Tree
-	 * Ali: Light Bulb
-	 * 
-	 */
-
+	
 	private int numberOfTeams;
 	private String theme;
 	private String[] teamTheme;
-
-	public void playGames(Scanner input, Random rnd) {
-		TreeGame johnny = new TreeGame(input, rnd);
-
-	}
-
+	
 	public void setUpStoryTime(Scanner input, Random rnd) {
 		boolean hasStoryPrompt = this.askUserIfTheyNeedAStoryPrompt(input);
 		if(hasStoryPrompt)
@@ -32,7 +19,7 @@ public class GameSetUp {
 			this.printThemes();
 		}
 	}
-
+	
 	private boolean askUserIfTheyNeedAStoryPrompt(Scanner input) {
 		boolean needStoryPropmt = false;
 		System.out.println("Do you need some ideas for a story?");
@@ -42,7 +29,7 @@ public class GameSetUp {
 		}
 		return needStoryPropmt;
 	}
-
+	
 	private void getNumberOfTeams(Scanner input) {
 		System.out.println("How many teams would you like to have?");
 		System.out.print("Please enter an integer: ");
@@ -126,6 +113,11 @@ public class GameSetUp {
 
 	private int getDiceNumber(Random rnd) {
 		return rnd.nextInt(6);
+	}
+
+	public void playGames(Scanner input, Random rnd) {
+		// TODO Auto-generated method stub
+		
 	}
 
 
