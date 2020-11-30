@@ -22,7 +22,8 @@ public class Main {
 		Greetings.printGreeting();
 		GameSetUp Cs2Game = new GameSetUp();
 		Cs2Game.setUpStoryTime(input, rnd);
-		Cs2Game.playGames(input, rnd);
+		PlayGames games = new PlayGames();
+		games.playGames(input, rnd);
 		System.out.println("Program End");
 	}
 
