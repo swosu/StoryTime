@@ -1,6 +1,12 @@
 # 2022 Software Engineering
 I took a trip across the road.
 
+
+Kaden:
+Brandon: I dont know what im doing. :)
+Kelton: I saw spiderman.  
+
+
 Kaden:   
 
 Brandon: I dont know what im doing. :)   
@@ -9,6 +15,7 @@ Brandon: I dont know what im doing. :)
 Kaden: Walked into someones house.
 
 Kelton:
+
 Alexander: The Lemon hit the wall.
 Abby
 Lizbeth: Am I doing this right? 
