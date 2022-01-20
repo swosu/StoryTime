@@ -14,7 +14,9 @@ Payton
 Cody: I found a dog there.
 Alan
 VAnce
-Kathy: In order to enter the castle, I was asked to answer a question from a man in a mask.
-Anders: I flew to the United States.
+Kathy: In order to enter the castle, I was asked to answer a question from a man in a mask.  
+
+Anders: I flew to the United States.  
+
 Colby:
 Payton
