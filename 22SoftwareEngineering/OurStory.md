@@ -7,12 +7,12 @@ Brandon: I dont know what im doing. :)
 Kelton:
 Alexander: The Lemon hit the wall.
 Abby
-Lizbeth
+Lizbeth: Am I doing this right? 
 Payton
 Cody
 Alan
 VAnce
-Kathy: In order to enter the castle, I was asked to answer a question from a man in a mask.
-Anders: I flew to the United States.
+Kathy: In order to enter the castle, I was asked to answer a question from a man in a mask.  
+Anders
 Colby:
 Payton
