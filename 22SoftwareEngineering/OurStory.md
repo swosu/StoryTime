@@ -6,6 +6,9 @@ Kaden:
 
 Brandon: I dont know what im doing. :)   
 
+
+Kaden: Walked into someones house.
+
 Kelton:
 Alexander: The Lemon hit the wall.
 Abby
