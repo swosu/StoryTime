@@ -11,7 +11,7 @@ Kaden: Walked into someones house.
 
 Kelton:
 Alexander: The Lemon hit the wall.
-Abby
+Abby: It was really weird.
 Lizbeth: Am I doing this right? 
 Payton
 Cody: I found a dog there.
