@@ -10,7 +10,7 @@ Lizbeth
 Payton
 Cody
 Alan
-VAnce
+Vance: Hello, World! The quick brown fox jumped over the lazy dog.
 Kathy: In order to enter the castle, I was asked to answer a question from a man in a mask.  
 Anders
 Colby:
