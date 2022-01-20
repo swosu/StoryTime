@@ -2,8 +2,10 @@
 I took a trip across the road.
 I was confused by the locked tower across the road.
 
-Kaden:
-Brandon: I dont know what im doing. :)
+Kaden:   
+
+Brandon: I dont know what im doing. :)   
+
 Kelton:
 Alexander: The Lemon hit the wall.
 Abby
