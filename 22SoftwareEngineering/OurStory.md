@@ -2,7 +2,7 @@
 I took a trip across the road.
 
 Kaden:
-Brandon:
+Brandon: I dont know what im doing. :)
 Kelton:
 Alexander
 Abby
