@@ -12,7 +12,7 @@ Payton
 Cody
 Alan
 VAnce
-Kathy: In order to enter the castle, I was asked to answer a question from a man in a mask.  
-Anders
+Kathy: In order to enter the castle, I was asked to answer a question from a man in a mask.
+Anders: I flew to the United States.
 Colby:
 Payton
