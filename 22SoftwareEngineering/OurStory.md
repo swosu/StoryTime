@@ -1,7 +1,7 @@
 # 2022 Software Engineering
 I took a trip across the road.
 
-Kaden:
+Kaden: Walked into someones house.
 Brandon:
 Kelton:
 Alexander
